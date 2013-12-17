@@ -22,6 +22,7 @@ $experimental-support-for-svg: true;
 
 // 標準font-family
 $fontFamily : 'ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', Helvetica, Arial, sans-serif;
+$fontFamilyEn : Verdana, Helvetica, Arial, 'ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
 
 // 標準テキストカラー
 $textColor : #333;
@@ -33,4 +34,7 @@ $linkColor_hover : #0000ee;
 $linkColor_active : #ff0000;
 
 // アクセントカラー
-$colorA : #000;
+$baseColor : #f0f0f0;
+$colorA : #E57D54;
+$colorB : #399FC7;
+$colorC : #F9D94B;
