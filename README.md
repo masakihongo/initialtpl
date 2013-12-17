@@ -3,7 +3,7 @@ HTML5 CSS3 initial template.
 
 ##サイト製作用 初期テンプレート一式
 initializr Classic H5BPベース  
-（http://www.initializr.com/）  
+http://www.initializr.com/
 
 ==========
 
