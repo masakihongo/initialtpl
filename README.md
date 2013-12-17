@@ -24,7 +24,7 @@ _sass
 css  
 　├ normalize.min.css   
 　└ style.css  
-index.html
+index.html  
 js  
 　├ common.js  
 　├ plugins.js    
